@@ -1,5 +1,3 @@
-# Start Here
-
 ## Part 0 - Overview
 
 Let's start by getting a basic overview of .NET MAUI and how projects are structured.
@@ -24,11 +22,11 @@ The **MonkeyFinder** project also has blank code files and XAML pages that we wi
 
 .NET MAUI single project provides a simplified and consistent cross-platform development experience, regardless of the platforms being targeted. .NET MAUI single project provides the following features:
 
-*- A single shared project that can target Android, iOS, macOS, and Windows.
-*- A simplified debug target selection for running your .NET MAUI apps.
-*- Shared resource files within the single project.
-*- Access to platform-specific APIs and tools when required.
-*- A single cross-platform app entry point.
+- A single shared project that can target Android, iOS, macOS, and Windows.
+- A simplified debug target selection for running your .NET MAUI apps.
+- Shared resource files within the single project.
+- Access to platform-specific APIs and tools when required.
+- A single cross-platform app entry point.
 
 .NET MAUI single project is enabled using multi-targeting and the use of SDK-style projects in .NET 6.
 
