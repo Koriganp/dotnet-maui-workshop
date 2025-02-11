@@ -1,3 +1,5 @@
+# Start Here
+
 ## Part 0 - Overview
 
 Let's start by getting a basic overview of .NET MAUI and how projects are structured.
